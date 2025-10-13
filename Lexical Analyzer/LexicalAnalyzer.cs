@@ -1,8 +1,8 @@
 ﻿using System.Text;
-using LexicalAnalyzer;
-using LexicalAnalyzer.Objects;
+using Compiler.LexicalAnalyzer;
+using Compiler.LexicalAnalyzer.Objects;
 
-namespace LexicalAnalyzer
+namespace Compiler.LexicalAnalyzer
 {
     public class LexicalAnalyzer
     {

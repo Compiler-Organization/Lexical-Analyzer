@@ -1,6 +1,6 @@
-﻿using LexicalAnalyzer.Objects;
+﻿using Compiler.LexicalAnalyzer.Objects;
 
-namespace LexicalAnalyzer.Test
+namespace Compiler.LexicalAnalyzer.Test
 {
     [TestClass]
     public sealed class LexicalAnalyzerTest
